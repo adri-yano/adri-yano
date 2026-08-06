@@ -1,37 +1,267 @@
-# Hello there! 👋 I'm Adriyano
-🔧 **Tech Enthusiast** | 🌐 **Web Developer** | ✨ **HTML/CSS Wizard**
+<h1 align="center">Hi 👋, I'm Adriyano Girma</h1>
 
-🔭 I’m currently working on **cool projects**  
-🌱 Learning **Software Engineering**  
-💬 Ask me about **Frontend development**
+<h3 align="center">
+Software Engineering Student • Full Stack Developer • Enterprise Software Enthusiast
+</h3>
 
-### 🛠️ **Tech Stack**
+<p align="center">
 
-#### **Languages**
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+Building scalable software with Java, Spring Boot, React, Next.js and PostgreSQL.<br>
+Exploring Cybersecurity, Linux, Cloud Computing and Modern Software Architecture.
 
-#### **Frontend**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+</p>
 
-#### **Backend & Tools**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adri-yano&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adri-yano&layout=compact&theme=radical)
+# 👨‍💻 About Me
 
-### 🌟 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/adriyano-girma-327083342)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/acromatic_16?s=21)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adriyanogirma7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://github.com/adri-yano/individual-website-portfolio-.git)
+```yaml
+Name: Adriyano Girma
 
-### 🌟 **Visitor Counter**
-![Profile Views](https://komarev.com/ghpvc/?username=adri-yano&color=blueviolet)
+Role:
+  - Software Engineering Student
+  - Full Stack Developer
+
+Interests:
+  - Enterprise Software Development
+  - Backend Engineering
+  - Frontend Wizard
+  - System Design
+  - Cybersecurity
+  - Linux
+  - DevOps
+  - Cloud Computing
+
+Currently working on:
+  - Spring Boot
+  - Next.js
+  - Docker
+  - PostgreSQL
+  - React Query
+  - Zustand
+  - Microservices
+  - System Design
+
+Goal:
+  Become a Full Stack Software Engineer specializing in
+  enterprise applications, backend architecture,
+  cloud infrastructure and cybersecurity.
+```
+
+---
+
+# 🚀 Current Focus
+
+- 🛒 Enterprise ERP Systems
+- ⚙ Spring Boot Backend Development
+- 🌐 React & Next.js
+- 🐳 Docker
+- 🗄 PostgreSQL
+- 🔐 Spring Security & JWT
+- 🐧 Linux
+- 🛡 Cybersecurity Fundamentals
+- ☁ Cloud Technologies
+- 🏗 System Design
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+
+---
+
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge)
+
+---
+
+## ⚙ Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+
+---
+
+## 🗄 Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+---
+
+## 🐧 Linux & Cybersecurity
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+
+---
+
+## ☁ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+
+---
+
+# 📌 Featured Projects
+
+🛒 Procurement & Resource Management System (ERP)
+
+📱 Social Media Platform
+
+🌐 Personal Portfolio
+
+💼 Enterprise Spring Boot REST APIs
+
+---
+
+# 🎯 Learning Roadmap
+
+```text
+██████████████████████████████████
+
+✔ HTML
+✔ CSS
+✔ JavaScript
+✔ Git
+✔ SQL
+✔ Java
+✔ React
+✔ Tailwind CSS
+✔ Next.js
+
+🟨 Spring Boot
+🟨 PostgreSQL
+🟨 Docker
+🟨 Linux
+🟨 JWT Authentication
+
+⬜ Microservices
+⬜ Redis
+⬜ RabbitMQ
+⬜ CI/CD
+⬜ Kubernetes
+⬜ AWS
+⬜ Terraform
+
+██████████████████████████████████
+```
+
+---
+
+# 📈 GitHub Analytics
+
+## 📊 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+
+---
+
+## 🔥 GitHub Streak
+
+<!-- GitHub Streak -->
+
+---
+
+## 🏆 GitHub Trophies
+
+<!-- GitHub Trophy -->
+
+---
+
+## 📈 Contribution Graph
+
+<!-- Activity Graph -->
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- Snake Animation -->
+
+---
+
+# 💡 Developer Philosophy
+
+> "Write clean code, build scalable systems, automate everything, and never stop learning."
+
+---
+
+# 🌍 Areas of Interest
+
+- Enterprise Software
+- Backend Engineering
+- Full Stack Development
+- Software Architecture
+- Distributed Systems
+- Linux
+- Networking
+- Cybersecurity
+- Ethical Hacking
+- Cloud Computing
+- DevOps
+- Automation
+- Open Source
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build a Production ERP
+- ✅ Master Spring Boot
+- ✅ Master React & Next.js
+- ✅ Learn Microservices
+- ✅ Become Advanced in Linux
+- ✅ Learn Docker & Kubernetes
+- ✅ Learn AWS
+- ✅ Contribute to Open Source
+- ✅ Improve Cybersecurity Skills
+- ✅ Build More Real-World Projects
+
+---
+
+# 🤝 Connect With Me
+
+- LinkedIn
+- X (Twitter)
+- Email
+- Portfolio
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+Always learning. Always building.
+
+</p>
