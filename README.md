@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- Animated gradient wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:764BA2&height=220&section=header&text=Adriyano%20Girma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Enterprise%20Software%20Enthusiast&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1F0F,100:00FF41&height=220&section=header&text=Adriyano%20Girma&fontSize=55&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Enterprise%20Software%20Enthusiast&descAlignY=58&descSize=18&descColor=B6FFB0" />
 
 <!-- Typing animation subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+software+with+Java+%26+Spring+Boot;Crafting+UIs+with+React+%2F+Next.js;Exploring+Cybersecurity+%2B+Linux+%2B+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=650&lines=Building+scalable+software+with+Java+%26+Spring+Boot;Crafting+UIs+with+React+%2F+Next.js;Exploring+Cybersecurity+%2B+Linux+%2B+Cloud" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Colored role badges, like the reference profile -->
-<img src="https://img.shields.io/badge/FULLSTACK_DEVELOPER-38BDF8?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/BACKEND_%26_SYSTEM_DESIGN-1E1E1E?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-764BA2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-22C55E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/FULLSTACK_DEVELOPER-000000?style=for-the-badge&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/BACKEND_%26_SYSTEM_DESIGN-0D1F0F?style=for-the-badge&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-003B00?style=for-the-badge&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-00FF41?style=for-the-badge&logoColor=000000" />
 
 </div>
 
@@ -114,14 +114,14 @@ Goal 2026:            Full Stack Software Engineer — enterprise apps, backend 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adri-yano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=764BA2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adri-yano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adri-yano&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=00FF41&text_color=B6FFB0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adri-yano&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=B6FFB0" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adri-yano&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=764BA2" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adri-yano&theme=github-dark-blue&hide_border=true&background=000000&ring=39FF14&fire=00FF41&currStreakLabel=39FF14" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=adri-yano&theme=darkhub&no-frame=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=adri-yano&theme=matrix&no-frame=true&margin-w=8&row=1" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adri-yano&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=764BA2&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adri-yano&theme=github-compact&hide_border=true&bg_color=000000&color=39FF14&line=00FF41&point=ffffff" />
 
 <!-- Snake animation: requires the GitHub Action below, output path must match -->
 <img src="https://raw.githubusercontent.com/adri-yano/adri-yano/output/github-contribution-grid-snake.svg" />
@@ -140,13 +140,13 @@ Goal 2026:            Full Stack Software Engineer — enterprise apps, backend 
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/adriyano" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+<a href="https://paypal.me/YOUR_PAYPAL_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=39FF14" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=adri-yano&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=adri-yano&label=Profile%20Views&color=39FF14&style=for-the-badge" />
 
 </div>
 
@@ -156,12 +156,12 @@ Goal 2026:            Full Stack Software Engineer — enterprise apps, backend 
 
 <div align="center">
 
-<a href="https://x.com/Acromatic_16" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:adriyanogirma7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://x.com/Acromatic_16" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=39FF14" /></a>
+<a href="mailto:adriyanogirma7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
+<a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,50:2C5364,100:0F2027&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:0D1F0F,100:000000&height=120&section=footer" />
 
 <p align="center">⭐ Thanks for visiting my profile! Always learning, always building. ⭐</p>
