@@ -42,7 +42,8 @@ Goal 2026:            Full Stack Software Engineer — enterprise apps, backend 
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Developer at work" />
-</div>```
+</div>
+```
 
 ---
 
@@ -149,13 +150,12 @@ Goal 2026:            Full Stack Software Engineer — enterprise apps, backend 
 <div align="center">
 
 <a href="https://paypal.me/YOUR_PAYPAL_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=48CAE4" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=adri-yano&label=Profile%20Views&color=39FF14&style=for-the-badge" />
-
+<img src="https://komarev.com/ghpvc/?username=adri-yano&label=Profile%20Views&color=48CAE4&style=for-the-badge" />
 </div>
 
 ---
@@ -164,9 +164,9 @@ Goal 2026:            Full Stack Software Engineer — enterprise apps, backend 
 
 <div align="center">
 
-<a href="https://x.com/Acromatic_16" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=39FF14" /></a>
-<a href="mailto:adriyanogirma7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14" /></a>
+<a href="https://x.com/Acromatic_16" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=48CAE4" /></a>
+<a href="mailto:adriyanogirma7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=48CAE4" /></a>
+<a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=48CAE4" /></a>
 
 </div>
 
