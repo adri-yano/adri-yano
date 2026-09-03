@@ -1,20 +1,25 @@
 <div align="center">
 
 <!-- Animated gradient wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1F0F,100:00FF41&height=220&section=header&text=Adriyano%20Girma&fontSize=55&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Enterprise%20Software%20Enthusiast&descAlignY=58&descSize=18&descColor=B6FFB0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:003566,100:48CAE4&height=220&section=header&text=Adriyano%20Girma&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Enterprise%20Software%20Enthusiast&descAlignY=58&descSize=18&descColor=CAF0F8" />
 
 <!-- Typing animation subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=650&lines=Building+scalable+software+with+Java+%26+Spring+Boot;Crafting+UIs+with+React+%2F+Next.js;Exploring+Cybersecurity+%2B+Linux+%2B+Cloud" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=48CAE4&background=00000000&center=true&vCenter=true&width=650&lines=Building+scalable+software+with+Java+%26+Spring+Boot;Crafting+UIs+with+React+%2F+Next.js;Exploring+Cybersecurity+%2B+Linux+%2B+Cloud" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Colored role badges, like the reference profile -->
-<img src="https://img.shields.io/badge/FULLSTACK_DEVELOPER-000000?style=for-the-badge&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/BACKEND_%26_SYSTEM_DESIGN-0D1F0F?style=for-the-badge&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-003B00?style=for-the-badge&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-00FF41?style=for-the-badge&logoColor=000000" />
+<img src="https://img.shields.io/badge/FULLSTACK_DEVELOPER-000814?style=for-the-badge&logoColor=48CAE4" />
+<img src="https://img.shields.io/badge/BACKEND_%26_SYSTEM_DESIGN-003566?style=for-the-badge&logoColor=48CAE4" />
+<img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-005F73?style=for-the-badge&logoColor=48CAE4" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-48CAE4?style=for-the-badge&logoColor=000814" />
+
+<br/><br/>
+
+<!-- Animated coder GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding animation" />
 
 </div>
 
@@ -34,7 +39,10 @@ My work sits across three areas:
 Currently building:  Enterprise ERP System (Procurement & Resource Management)
 Currently learning:  Microservices, Redis, CI/CD, Kubernetes, AWS
 Goal 2026:            Full Stack Software Engineer — enterprise apps, backend architecture, cloud & security
-```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Developer at work" />
+</div>```
 
 ---
 
@@ -162,6 +170,6 @@ Goal 2026:            Full Stack Software Engineer — enterprise apps, backend 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:0D1F0F,100:000000&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,50:003566,100:000814&height=120&section=footer" />
 
 <p align="center">⭐ Thanks for visiting my profile! Always learning, always building. ⭐</p>
